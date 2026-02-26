@@ -12,9 +12,9 @@ to a DDA-based approach to remove fisheye distortion and improve accuracy.
 
 ## Preview (Version 2 – DDA Raycasting)
 
-| 2D Map View | 3D First-Person View |
+| Measurement vs Kalman filter estimate | Raw Camera Image |
 |------------|----------------------|
-| ![](screenshots/kalman_filter.png) | ![](screenshots/v2_3D_View.png) |
+| ![](screenshots/kalman_filter.png) | ![](screenshots/corresponding_camera_image.png) |
 
 ---
 
